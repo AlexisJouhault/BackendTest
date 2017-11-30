@@ -1,0 +1,6 @@
+#FileLock
+#Thu Nov 30 16:34:56 EST 2017
+hostName=10.11.17.21
+id=1600eda93a1864173bcb8f610cd0639dc5601cda3af
+method=file
+server=10.11.17.21\:61543
